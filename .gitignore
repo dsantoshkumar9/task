@@ -1,6 +1,4 @@
 /.dockerignore
 /compose.yaml
 /node_modules
-/package-lock.json
-/package.json
 /README.Docker.md
